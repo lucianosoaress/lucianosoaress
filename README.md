@@ -4,9 +4,10 @@ Working mainly with **Java** and **Node.js**... REST APIs, microservices, and so
 Currently exploring **Python**, **FastAPI**, and the path toward cloud-native development.
 
 ---
-
 ## Languages
-Portuguese (native) · English (C1) · French (B1) · German (A2)   
+Portuguese (native) · English (C1) · French (B1) · German (A2)
+
+*Actively improving all levels — updated weekly.*
 
 ---
 
