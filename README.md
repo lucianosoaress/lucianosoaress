@@ -7,7 +7,7 @@ Currently exploring **Python**, **FastAPI**, and the path toward cloud-native de
 ## Languages
 Portuguese (native) · English (C1) · French (B1) · German (A2)
 
-*Actively improving all levels — updated weekly.*
+*Actively improving all levels. Updated weekly.*
 
 ---
 
@@ -36,5 +36,5 @@ Portuguese (native) · English (C1) · French (B1) · German (A2)
 
 ## Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucianosoaress)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucciano-soares)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lucianosoares@outlook.pt)
