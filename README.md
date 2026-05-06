@@ -1,7 +1,8 @@
 ## Hi there. Luciano, here! 👋
 Backend Developer focused on building reliable APIs and clean server-side systems.
 Working mainly with **Java** and **Node.js**... REST APIs, microservices, and solid database design.
-Currently exploring **Python**, **FastAPI**, and the path toward cloud-native development.
+Currently exploring **Python**, **FastAPI**, and the path toward cloud-native development. 
+Actively improving across best production-grade practices, software architecture, system design and distributed systems.
 
 ---
 ## Languages
@@ -12,17 +13,25 @@ Portuguese (native) · English (C1) · French (B1) · German (A2)
 ---
 
 ## Stack
-/**
+/*
+ *
  * @stack
  *
- * Backend     : Java · Node.js · Express.js
- * APIs        : REST · Microservices · JWT
- * Databases   : PostgreSQL · MySQL · SQL
- * Testing     : Supertest · JUnit
- * Tools       : Git · GitHub · Agile · Scrum
- * Exploring   : Python · FastAPI · Spring Ecosystem · Docker · Kubernetes · CI/CD · AWS · Process Automation
+ * Backend          : Java · Spring Boot · Node.js · Express.js
+ * APIs                  : REST · Microservices · JWT
+ * Databases      : PostgreSQL · MySQL · Redis
+ * Testing            : Supertest · JUnit · pytest
+ * Tools                : Git · GitHub · Agile · Scrum
+ * Exploring        : Python · FastAPI Cloud · Docker · Kubernetes · GitHub Actions · Apache Kafka · AWS  
  *                           
  */
+
+---
+
+# Languages:  Portuguese (native) · English (C1) · French (B1) · German (A2)
+---
+
+# Also… play piano.
 
 ---
 
